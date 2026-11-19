@@ -26,6 +26,8 @@ Yumi paketsiz de çalışır (varsayılan Yumi sesiyle); paket ekleyince karakte
 | Vita | Vita sesi (kadın) | CC0 |
 | Vivi | Vivi sesi (kadın) | CC0 |
 | Ren | Ren sesi (erkek) | CC0 |
+| Akira | Akira sesi | CC0 |
+| Shiori | Akira sesi | CC0 |
 | Kaito | Kaito sesi (erkek) | VRoid Hub lisansı (serbest) |
 | Eddy | Eddy sesi (erkek) | VRoid Hub lisansı (atıf gerekli — aşağıda) |
 
