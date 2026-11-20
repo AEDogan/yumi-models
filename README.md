@@ -14,7 +14,7 @@ Yumi paketsiz de çalışır (varsayılan Yumi sesiyle); paket ekleyince karakte
 
 | Paket | İçerik | Boyut | İndir |
 |---|---|---|---|
-| **Anime seti** `anime-1.1.0` | 10 karakter, her biri kendi sesiyle | ~17,2 GB (9 parça) | [Releases → anime-1.1.0](../../releases/tag/anime-1.1.0) |
+| **Anime seti** `anime-1.1.0` | 10 karakter, her biri kendi sesiyle | ~17,2 GB (9 parça + Birlestirici.cmd) | [Releases → anime-1.1.0](../../releases/tag/anime-1.1.0) |
 
 ### Anime setindeki karakterler
 
@@ -33,9 +33,9 @@ Yumi paketsiz de çalışır (varsayılan Yumi sesiyle); paket ekleyince karakte
 
 ## Kurulum
 
-1. **Anime seti:** Releases sayfasından `anime-1.1.0.yumipaket.001` … `.009`, `anime-1.1.0.yumipaket.sha256.txt` ve
-   `BIRLESTIR.cmd` dosyalarını **aynı klasöre** indirin. `BIRLESTIR.cmd`'yi çalıştırın; parçalar birleşir ve sha256 ile
-   doğrulanır (`TAMAM` yazısını görünce parçaları silebilirsiniz). GitHub tek dosyada 2 GB sınırı koyduğu için set parçalı.
+1. **Anime seti:** Releases sayfasından **1 … 9** parçalarını ve **`Birlestirici.cmd`**'yi **aynı klasöre** indirin.
+   `Birlestirici.cmd`'ye çift tıklayın; parçalar birleşir, kontrol edilir ve `anime-1.1.0.yumipaket` oluşur
+   (`TAMAM` yazısını görünce parçaları silebilirsiniz). GitHub tek dosyada 2 GB sınırı koyduğu için set parçalı.
 2. Yumi'de **Model → + Paket ekle** ile paketi seçin (ya da dosyayı pencereye sürükleyip bırakın). Ekleme arka planda
    sürer; Yumi bu sırada çalışmaya devam eder. Kurulumda her dosyanın sha256'sı denetlenir.
 
