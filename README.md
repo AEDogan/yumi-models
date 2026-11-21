@@ -1,4 +1,7 @@
-# Yumi Models — karakter paketleri
+# Yumi Models — karakter paketleri (AMD Sürümü)
+
+NVIDIA VE INTEL EKRAN KARTI KULLANICILARI İÇİN LÜTFEN ALTTAKI LINKI KULLANIN
+https://github.com/AEDogan/Yumi-v1.0-Setup
 
 > **Bu modeller [Yumi](https://github.com/AEDogan/Yumi_v1.0) için yapılmıştır.** Paketler yalnız Yumi masaüstü sesli
 > asistanında çalışır; önce Yumi'yi kurun: **[github.com/AEDogan/Yumi_v1.0](https://github.com/AEDogan/Yumi_v1.0)**
